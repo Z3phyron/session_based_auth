@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Fira Code";
+}
+
+:root {
+    --color-1: rgb(144, 21, 246);
+    --color-2: rgb(146, 38, 234);
+    --color-3: rgba(145, 21, 246, 0.818);
+    --color-4: rgba(159, 158, 159, 0.556);
+}
